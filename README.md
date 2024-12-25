@@ -38,7 +38,9 @@ Resetting Fields:
 
 🔄 Click the "Reset" button to clear the message, secret key, and encrypted message fields.
 🖼️ Example Screenshots:
+📸 Encryption
 ![Screenshot 2024-12-25 201437](https://github.com/user-attachments/assets/df087922-04d0-486b-b02c-0f3a32e2eea2)
+⚠️ Error Message 
+![Screenshot 2024-12-25 201830](https://github.com/user-attachments/assets/6b5af2d9-ea7f-46a3-9a24-f3438615b8c4)
+📸 Decryption
 ![Screenshot 2024-12-25 201348](https://github.com/user-attachments/assets/52026cc8-57e8-44a8-a156-c9e2ceeb619f)
-
-
