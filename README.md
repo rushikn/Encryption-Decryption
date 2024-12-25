@@ -19,7 +19,7 @@ This is a simple Python-based application for encrypting and decrypting messages
 bash
 **pip install pycryptodome**
 ## 🚀 Usage:
-1. Running the Application:
+⚙️ Running the Application:
 Open the terminal or command prompt and navigate to the project directory.
 Run the main.py file:
 **python main.py**
